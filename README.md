@@ -12,10 +12,6 @@ If you wish to contribute to or improve this project, please clone the repositor
 
 Use the TestEnv.ps1 file for testing, this project was made using Module-Builder, and you must do the Build-Module command to make changes go into effect.
 
-# Installation
-
-This project is not available to be installed due to security concerns.
-
 # Credits
 
 This project was co-authored by Nathan Allie and Benton Rupp. Special thanks to supervisors Zach Lemons and Damien Solodow who set up and guided the project. This project was created under the supervision and support of Gaylor Electric, Inc.
