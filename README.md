@@ -1,26 +1,25 @@
+# AutoDesk APS Integration
+
 # Introduction
 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.
+This project is an automation module that works with the AutoDesk API to pull construction data from the AutoDesk Construction Cloud and write it to company tables as well as editing data and posting new data. About 100 scripts were written in total to access around 35 different endpoints in the cloud. The scripts make REST calls to the construction cloud to perform data manipulation. This is a project created during a summer internship at Gaylor Electric Inc and is currently being used in the company's integrations.
 
-# Getting Started
+# Contributions
 
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+If you wish to contribute to or improve this project, please clone the repository onto your own personal machine, this is a closed project.
 
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Testing
 
-# Build and Test
+Use the TestEnv.ps1 file for testing, this project was made using Module-Builder, and you must do the Build-Module command to make changes go into effect.
 
-TODO: Describe and show how to build your code and run the tests.
+# Installation
 
-# Contribute
+This project is not available to be installed due to security concerns.
 
-TODO: Explain how other users and developers can contribute to make your code better.
+# Credits
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+This project was co-authored by Nathan Allie and Benton Rupp. Special thanks to supervisors Zach Lemons and Damien Solodow who set up and guided the project. This project was created under the supervision and support of Gaylor Electric, Inc.
 
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+# License
+
+This project is licensed under the MIT license, see license.txt.
